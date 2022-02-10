@@ -1,4 +1,4 @@
-# [(React) Personal Portfolio](https://github.com/cmrnfaith/web_3.0)
+# [(React) Web 3.0 Testnet](https://github.com/cmrnfaith/web_3.0)
 
 ![GitHub](https://img.shields.io/github/license/cmrnfaith/web_3.0?style=plastic)
 
