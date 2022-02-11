@@ -6,7 +6,7 @@ const Footer = () => (
   <div className="gradient-bg-footer flex w-full flex-col items-center justify-between p-4 md:justify-center">
     <div className="my-4 flex w-full flex-col items-center justify-between sm:flex-row">
       <div className="flex flex-[0.5] items-center justify-center">
-        <img src={logo} alt="logo" className="w-32" />
+        <img src={logo} alt="logo" className="w-60" />
       </div>
       <div className="mt-5 flex w-full flex-1 flex-wrap items-center justify-evenly sm:mt-0">
         <p className="mx-2 cursor-pointer text-center text-base text-white">
