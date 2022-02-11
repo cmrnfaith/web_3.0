@@ -49,4 +49,6 @@ npm run dev
 
 ![Screenshot of the Application](docs/homepage.png?raw=true "Screenshot of the Application")
 
+### Link to the website: [(React) Web 3.0](https://cmrnfaith.github.io/web_3.0/)
+
 ### Link to my portfolio: [(React) Personal Portfolio](https://cmrnfaith.github.io/portfolio/)
