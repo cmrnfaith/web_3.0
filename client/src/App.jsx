@@ -1,4 +1,4 @@
-import "./App.css"
+import "./index.css"
 import { Navbar, Welcome, Services, Footer, Transactions } from "./components"
 
 function App() {
