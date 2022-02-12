@@ -26,7 +26,7 @@ const Footer = () => (
 
     <div className="mt-5 flex flex-col items-center justify-center">
       <p className="text-center text-sm text-white">
-        Come join us and hear for the unexpected miracle
+        Contact us for more information about our team or our products
       </p>
       <p className="mt-2 text-center text-sm font-medium text-white">
         contact@excessivealpha.com

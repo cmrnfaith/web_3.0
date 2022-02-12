@@ -45,12 +45,12 @@ const Welcome = () => {
     <div className="flex w-full items-center justify-center">
       <div className="mf:flex-row flex flex-col items-start justify-between py-12 px-4 md:p-20">
         <div className="mf:mr-10 flex flex-1 flex-col items-start justify-start">
-          <h1 className="text-gradient py-1 text-3xl text-white sm:text-5xl">
-            Send Crypto <br /> across the world
+          <h1 className="text-gradient py-2 text-3xl text-white sm:text-5xl">
+            Send Ethereum <br /> wherever you go
           </h1>
           <p className="mt-5 w-11/12 text-left text-base font-light text-white md:w-9/12">
-            Explore the crypto world. Buy and sell cryptocurrencies easily on
-            Krypto.
+            Explore the Ethereum ecosystem. Send cryptocurrencies easily on
+            Excessive Alpha.
           </p>
           {!currentAccount && (
             <button
@@ -67,7 +67,7 @@ const Welcome = () => {
 
           <div className="mt-10 grid w-full grid-cols-2 sm:grid-cols-3">
             <div className={`rounded-tl-2xl ${companyCommonStyles}`}>
-              Reliability
+              Digital Messaging
             </div>
             <div className={companyCommonStyles}>Security</div>
             <div className={`sm:rounded-tr-2xl ${companyCommonStyles}`}>

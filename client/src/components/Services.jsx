@@ -24,11 +24,10 @@ const Services = () => (
         <h1 className="text-gradient py-2 text-3xl text-white sm:text-5xl ">
           Services that we
           <br />
-          continue to improve
+          strive to provide
         </h1>
         <p className="my-2 w-11/12 text-left text-base font-light text-white md:w-9/12">
-          The best choice for buying and selling your crypto assets, with the
-          various super friendly services we offer
+          The best choice for sending digital messages with your Eth
         </p>
       </div>
 
@@ -37,19 +36,19 @@ const Services = () => (
           color="bg-[#2952E3]"
           title="Security gurantee"
           icon={<BsShieldFillCheck fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="Security is guranteed through our service. We only access what's necessary to complete a transaction."
         />
         <ServiceCard
           color="bg-[#8945F8]"
-          title="Best exchange rates"
+          title="Best Gwei rates"
           icon={<BiSearchAlt fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="We opt to look for the best gas rates that ensure the message is sent for the lowest fees."
         />
         <ServiceCard
           color="bg-[#F84550]"
           title="Fastest transactions"
           icon={<RiHeart2Fill fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="We process your transactions promptly and, depending on the congestion of the network, aim to send your request within 30 seconds."
         />
       </div>
     </div>
