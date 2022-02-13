@@ -16,12 +16,11 @@ body {
 .gradient-bg-welcome {
   background-color: #0f0e13;
   background-image: radial-gradient(
-      at 0% 0%,
-      hsla(253, 16%, 7%, 1) 0,
-      transparent 50%
+      at 55% 5%,
+      hsla(200, 99%, 61%, 1) 0,
+      transparent 25%
     ),
-    radial-gradient(at 50% 0%, hsla(225, 39%, 30%, 1) 0, transparent 50%),
-    radial-gradient(at 100% 0%, hsla(339, 49%, 30%, 1) 0, transparent 50%);
+    radial-gradient(at 96% 5%, hsla(16, 95%, 56%, 1) 0, transparent 24%);
 }
 
 .gradient-bg-services {
@@ -36,22 +35,18 @@ body {
 
 .gradient-bg-transactions {
   background-color: #0f0e13;
-  background-image: radial-gradient(
-      at 0% 100%,
-      hsla(253, 16%, 7%, 1) 0,
-      transparent 50%
-    ),
-    radial-gradient(at 50% 0%, hsla(225, 39%, 25%, 1) 0, transparent 50%);
+  background-image: ;
 }
 
 .gradient-bg-footer {
   background-color: #0f0e13;
   background-image: radial-gradient(
-      at 0% 100%,
-      hsla(253, 16%, 7%, 1) 0,
-      transparent 53%
+      at 50% 100%,
+      hsla(28, 69%, 31%, 1) 0,
+      transparent 45%
     ),
-    radial-gradient(at 50% 150%, hsla(339, 49%, 30%, 1) 0, transparent 50%);
+    radial-gradient(at 35% 94%, hsla(28, 100%, 30%, 1) 0, transparent 50%),
+    radial-gradient(at 73% 100%, hsla(22, 100%, 77%, 1) 0, transparent 45%);
 }
 
 .blue-glassmorphism {
@@ -73,18 +68,17 @@ body {
 }
 
 .eth-card {
-  background-color: #a099ff;
+  background-color: #ff99d5;
   background-image: radial-gradient(
-      at 83% 67%,
-      rgb(152, 231, 156) 0,
-      transparent 58%
+      at 8% 85%,
+      hsla(27, 83%, 63%, 1) 0,
+      transparent 43%
     ),
-    radial-gradient(at 67% 20%, hsla(357, 94%, 71%, 1) 0, transparent 59%),
-    radial-gradient(at 88% 35%, hsla(222, 81%, 65%, 1) 0, transparent 50%),
-    radial-gradient(at 31% 91%, hsla(9, 61%, 61%, 1) 0, transparent 52%),
-    radial-gradient(at 27% 71%, hsla(336, 91%, 65%, 1) 0, transparent 49%),
-    radial-gradient(at 74% 89%, hsla(30, 98%, 65%, 1) 0, transparent 51%),
-    radial-gradient(at 53% 75%, hsla(174, 94%, 68%, 1) 0, transparent 45%);
+    radial-gradient(at 70% 48%, hsla(309, 82%, 65%, 1) 0, transparent 48%),
+    radial-gradient(at 39% 5%, hsla(357, 85%, 65%, 1) 0, transparent 41%),
+    radial-gradient(at 91% 22%, hsla(185, 67%, 76%, 1) 0, transparent 52%),
+    radial-gradient(at 70% 68%, hsla(41, 61%, 72%, 1) 0, transparent 50%),
+    radial-gradient(at 8% 5%, hsla(270, 91%, 61%, 1) 0, transparent 59%);
 }
 
 .text-gradient {
